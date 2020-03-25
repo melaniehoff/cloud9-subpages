@@ -61,8 +61,8 @@ body {
 #shade2 {
   z-index: 18;
   position: fixed;
-  width: 155px;
-  background-image: linear-gradient(rgb(80, 145, 180), rgba(255, 0, 0, 0));
+  width: 175px;
+  background-image: linear-gradient(to left, rgb(80, 145, 180), rgba(255, 0, 0, 0));
   top: 0px;
   right: 0px;
   height: 100%;
@@ -87,7 +87,7 @@ body {
 
 #menu a, a:visited {
   color: rgba(157, 0, 255, 1);
-   font-weight: bold; 
+   font-weight: bold;
    font-family: 'Pinyon Script', cursive;
   font-size: 2em;
   line-height: 1.2em;
@@ -97,7 +97,7 @@ body {
 #menu a:hover {
   text-decoration: underline;
   text-decoration-color: blue;
-} */ 
+} */
 
 #logo {
   z-index: 20;
