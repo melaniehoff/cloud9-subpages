@@ -67,7 +67,7 @@ body {
   top: 0px;
   right: 0px;
   height: 100%;
-  pointer-events: none 
+  pointer-events: none
 }
 
 /* #menu {
@@ -304,6 +304,10 @@ body {
   body, html {
     position: relative;
     width: 100%;
+  }
+
+  img {
+    display: none;
   }
 
   #background-site {
